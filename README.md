@@ -10,3 +10,6 @@ This include all the assets and scenes from the PawningKing game.
 
 There are too many files to upload to entire Unity projet to GitHub, so that's why there is only
 the 'assets' folder. 
+
+Then, follow the instructions in the 'test' file to learn how to push/pull from/to
+GitHub.
