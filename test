@@ -1,7 +1,13 @@
-this is a test file for the GitHub commiting changes and push/pull through the GitHub desktop app or though GitHub webpage
+This is a test file for the GitHub commiting changes and push/pull through the 
+GitHub desktop app or though GitHub webpage
 
-You will need to make changes in the actual files, then commit those changes
-and push them to the main branch.
+You will need to make changes in the actual files in your GitHub folder,
+then commit those changes and push them to the main branch.
+
+You will most likely find the GitHub directory in:
+C:\Users\<YOUR_PC_NAME>\Documents\GitHub
+
+This directory is where we change the files in order to push them to the GitHub. 
 
 Change this text however and commit changes back to main branch:
 
